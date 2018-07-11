@@ -1,2 +1,4 @@
 # Responsive-Portfolio
-This is my first attempt at creating a responsive website.
+Project 1: Created a responsive website.
+
+https://alibain10.github.io/Responsive-Portfolio/
